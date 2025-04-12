@@ -3,6 +3,7 @@ This is a Speech to Text Converter Web App built with HTML, CSS, and JavaScript 
 
 # Features
 1.Start/Stop voice recognition with a mic button
+
 2.Continuous recording until manually stopped
 3.Live text display while speaking
 4.Final transcript saved and displayed cleanly
