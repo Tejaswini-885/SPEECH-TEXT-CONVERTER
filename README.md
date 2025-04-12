@@ -2,10 +2,10 @@
 This is a Speech to Text Converter Web App built with HTML, CSS, and JavaScript using the Web Speech API. It allows users to click on a mic icon, speak naturally, and see the live transcription of their speech in real time.
 
 # Features
->Start/Stop voice recognition with a mic button
->Continuous recording until manually stopped
->Live text display while speaking
->Final transcript saved and displayed cleanly
+1.Start/Stop voice recognition with a mic button
+2.Continuous recording until manually stopped
+3.Live text display while speaking
+4.Final transcript saved and displayed cleanly
 
 # Built With
 >HTML5 for structure
